@@ -1,4 +1,4 @@
-# 🧠 YOLOv8 Object Detection with FiftyOne
+<img width="110" alt="image" src="https://github.com/user-attachments/assets/9af13fbe-2164-4dae-8f1b-3bd9cd0f1290" /># 🧠 YOLOv8 Object Detection with FiftyOne
 
 This project runs object detection on the COCO-2017 validation dataset using YOLOv8n, visualizes predictions with FiftyOne, and evaluates the results using COCO-style metrics.
 
@@ -16,6 +16,7 @@ This project runs object detection on the COCO-2017 validation dataset using YOL
    - **Recall**: 0.57  
    - **F1 Score**: 0.64  
 6. Exported predictions to `output_dir/`
+![Uploading image.png…]()
 
 ---
 
