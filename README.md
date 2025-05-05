@@ -36,24 +36,5 @@ yolo_detection_project/
 
 ---
 
-## 📸 Screenshots
-
-- FiftyOne GUI with bounding boxes  
-- Evaluation metrics printed in terminal
-
 ---
 
-## 🚀 How to Run
-
-```bash
-pip install fiftyone ultralytics
-python run_yolo_predictions.py
-```
-
----
-
-## 📦 Submission Options
-
-- Option A: Zip `yolo_detection_project/` and upload  
-- Option B: Push this folder as a GitHub repo  
-- Option C: Copy the folder to USB/Cloud and submit  
